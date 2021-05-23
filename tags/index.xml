@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Metin Munuklu Blog</title>
-    <link>https://metinmunuklu.github.io/tags/</link>
-    <description>Recent content in Tags on Metin Munuklu Blog</description>
+    <title>Tags on Metin Munuklu</title>
+    <link>https://mtnmunuklu.github.io/tags/</link>
+    <description>Recent content in Tags on Metin Munuklu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://metinmunuklu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 23 May 2021 14:34:38 +0300</lastBuildDate><atom:link href="https://mtnmunuklu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://mtnmunuklu.github.io/tags/test/</link>
+      <pubDate>Sun, 23 May 2021 14:34:38 +0300</pubDate>
+      
+      <guid>https://mtnmunuklu.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Metin Munuklu Blog</title>
-    <link>https://metinmunuklu.github.io/</link>
-    <description>Recent content on Metin Munuklu Blog</description>
+    <title>Metin Munuklu</title>
+    <link>https://mtnmunuklu.github.io/</link>
+    <description>Recent content on Metin Munuklu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 14:34:38 +0300</lastBuildDate><atom:link href="https://metinmunuklu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 23 May 2021 14:34:38 +0300</lastBuildDate><atom:link href="https://mtnmunuklu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mtnmunuklu.github.io/about/</link>
+      <pubDate>Sun, 23 May 2021 19:37:58 +0530</pubDate>
+      
+      <guid>https://mtnmunuklu.github.io/about/</guid>
+      <description>This is some static page where you can write about yourself.</description>
+    </item>
+    
     <item>
       <title>This is the post title</title>
-      <link>https://metinmunuklu.github.io/posts/mypost/</link>
+      <link>https://mtnmunuklu.github.io/posts/mypost/</link>
       <pubDate>Sun, 23 May 2021 14:34:38 +0300</pubDate>
       
-      <guid>https://metinmunuklu.github.io/posts/mypost/</guid>
+      <guid>https://mtnmunuklu.github.io/posts/mypost/</guid>
       <description>This is some content</description>
     </item>
     
